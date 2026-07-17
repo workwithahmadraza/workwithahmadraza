@@ -2,10 +2,10 @@
 
 # 👋 Hey, I'm Ahmad Raza
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+React+%26+Vue.js;Freelance+Developer+%7C+2%2B+Years+Experience;7%2B+Client+Projects+Delivered;Open+to+Freelance+Web+%26+Mobile+Work)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+React+%26+Vue+Expert+%7C+Spring+Boot+%7C+Python;AI+Enthusiast+%7C+Building+with+AI+Tools)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://workwithahmad.vercel.app)
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.raza400800@gmail.com)
+<a href="https://mail.google.com/mail/u/0/?to=a.raza400800@gmail.com&fs=1&tf=cm" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-raza-643b32267)
 
 📍 Lahore, Punjab, Pakistan
@@ -16,9 +16,15 @@
 
 ### 🙋 About Me
 
-I'm a full-stack developer with 2+ years of freelance experience, having delivered **7+ client projects** for **6–10 clients** across different domains. I own the complete lifecycle — client communication, architecture, development, and deployment — without a middleman, then bring that same discipline from a 6-month engineering stint at **Air IT Labs**.
+I'm a **Full-Stack Developer** with 2+ years of experience building web and mobile applications from frontend interfaces to backend APIs and databases. I enjoy the full cycle: understanding the problem, designing the architecture, writing clean code, and deploying something that actually works.
 
-I help startups and small businesses ship responsive websites, custom dashboards, and mobile apps without the overhead of a full agency.
+What I'm currently building and working on:
+
+- Full-stack web apps with React, Vue, Spring Boot, and Python
+- Custom dashboards and admin panels for startups and small businesses
+- Mobile apps with React Native
+- RESTful API design and integration
+- Exploring AI tools to speed up development workflows
 
 ---
 
@@ -63,13 +69,13 @@ I help startups and small businesses ship responsive websites, custom dashboards
 **Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Node](https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 **Databases & Cloud**
 
@@ -88,24 +94,13 @@ I help startups and small businesses ship responsive websites, custom dashboards
 
 ---
 
-### 🏗️ Selected Work
-
-| Project | What it is |
-|---|---|
-| **Quran Scape** | Full-stack Quran learning platform — user authentication, audio playback, and an admin dashboard |
-| **Yyeet** | Gaming social platform — user profiles, activity feeds, and real-time interaction features |
-
-Both built and launched independently, end to end, for freelance clients.
-
----
-
 ### 🎓 Certifications & Education
 
 **Certifications**
 - Java Spring Framework 6 with Spring Boot 3
 - Modern React with Redux
 - React Native – The Practical Guide
-- AWS Academy Graduate – Cloud Foundations
+- AWS Academy Graduate: Cloud Foundations
 - Complete A.I. & Machine Learning, Data Science Bootcamp
 
 **Education**
@@ -119,14 +114,7 @@ Both built and launched independently, end to end, for freelance clients.
 
 ### 🤝 Let's Collaborate
 
-I'm currently open to freelance work in:
-
-- Full-stack web apps (React.js / Vue.js frontends with Spring Boot or Python backends)
-- Custom dashboards & admin panels
-- Mobile apps with React Native
-- RESTful API design & integration
-
-Available for both short-term builds and ongoing engagements — reach out via the links above.
+Got a project in mind? I'm happy to talk through ideas, scope, or a quick technical question. Reach out through the links above and I'll get back to you.
 
 ---
 
@@ -147,12 +135,12 @@ Available for both short-term builds and ongoing engagements — reach out via t
 
 ### 🚀 Featured Projects
 
-> _Coming soon — this section will showcase selected repos once they're added._
+> _Coming soon: this section will showcase selected repos once they're added._
 
 <!-- PROJECTS-PLACEHOLDER: to be filled in next session -->
 
 ---
 
 <div align="center">
-<sub>Thanks for stopping by — always open to a conversation about your next project.</sub>
+<sub>Thanks for stopping by, always open to a conversation about your next project.</sub>
 </div>
