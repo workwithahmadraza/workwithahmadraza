@@ -38,9 +38,9 @@ What I'm currently building and working on:
 <tr>
 <td valign="top">
 
-- Delivered 7+ end-to-end projects for 6–10 clients over 2+ years
-- Owned full project lifecycle: requirements → architecture → development → deployment
-- Integrated RESTful APIs and refined UI/UX iteratively from direct client feedback, consistently meeting delivery timelines
+- Delivered 7+ end-to-end projects for 6 to 10 clients over 2+ years
+- Owned the full project lifecycle, from gathering requirements and designing the architecture to development, testing, deployment, and post-launch support, ensuring timely and high-quality delivery
+- Integrated RESTful APIs and refined UI/UX iteratively based on direct client feedback, consistently meeting delivery timelines
 
 </td>
 <td valign="top">
