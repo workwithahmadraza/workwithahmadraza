@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Ahmad Raza
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+React+%26+Vue+Expert+%7C+Spring+Boot+%7C+Python;AI+Enthusiast+%7C+Building+with+AI+Tools)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+2%2B+Years+Experience;React+%7C+Vue+%7C+Spring+Boot+%7C+Python;AI+Enthusiast+%7C+Building+with+AI+Tools;Open+to+Freelance+Web+%26+Mobile+Work)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://workwithahmad.vercel.app)
 <a href="https://mail.google.com/mail/u/0/?to=a.raza400800@gmail.com&fs=1&tf=cm" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
